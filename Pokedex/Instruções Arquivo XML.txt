@@ -1,0 +1,2 @@
+Para abrir o diagrama Pokedex.xml, é necessário abrir o programa DBDesignerFork, que está na pasta de mesmo nome, em seguida com o programa aberto clique no menu File -> Open e em seguida localize o arquivo com o diagrama que deseja abrir.
+A ferramenta é gratuita e pequena, pode ser levada no pendrive e não necessita de instalação.
